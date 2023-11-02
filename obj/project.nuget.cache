@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzcQtmPYnIj7QGhqOfu6VsysjNVKsZt6A4a0lk4VTPF/pc7b4KFfdyRECehGviL1Z3Lz/cfikQouYOwcKdwo/w==",
+  "success": true,
+  "projectFilePath": "/home/sapok/Desktop/VSC/C#/Setul2/Setul2.csproj",
+  "expectedPackageFiles": [
+    "/home/sapok/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
